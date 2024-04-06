@@ -19,7 +19,9 @@ https://www.doepfer.de/ms404_sm.htm
 
 5. partially reassemble the ms404, everything except for the top panel,this will insure proper alignment of the pots.
 
-6. place the adapter PCBs on the legs of the potentiometers and pin headers and solder them in , cut off any excess from the pin headers. make sure you leave a gap at the fron between the adapter PCBs and the front panel.
+6. place the adapter PCBs on the legs of the potentiometers and pin headers and solder them in , cut off any excess from the pin headers. make sure you leave a gap at the front between the adapter PCBs and the front panel. this is where the top panel fits.
+
+I recommend you fit one to see how it works first before doing them all.
 
 
 be careful when ordering PCB from random gerbers you find on the internet, the risk is all yours, I can only guarantee that they worked for me.
