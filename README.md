@@ -1,6 +1,12 @@
 # ms404_reverse_pot_adapter
- a simple pcb to alow mounting modern potentiometers in the doepfer ms404 e.g. bournes pdb181 series and alpha rv16af series pots.
-you can mix and match them with the original potentiometers, but I recommend changing them all, the original radiohm PCB mount pots are not a good design and cause the PCB to flex too much causing bad solder joints and damaged traces.
+ a simple pcb to allow mounting modern potentiometers in the doepfer ms404 e.g. bournes pdb181 series and alpha rv16af series pots.
+
+You can mix and match them with the original potentiometers, but I recommend changing them all, the original radiohm PCB mount pots are not a good design and cause the PCB to flex too much causing bad solder joints and damaged traces.
+
+the ms404 service manual is here:
+
+https://www.doepfer.de/ms404_sm.htm
+
 
 
 1. dissasemble the ms404 and desolder the old potentiometers, the pot values are written on the PCB Except for the filter resonance potentiometer(that's the only antilog pot). check and reflow/bridge any bad connections on the ms404 PCB.
