@@ -1,10 +1,11 @@
 # ms404_reverse_pot_adapter
- a simple pcb to alow mounting modern potentiometers in the doepfer ms404
+ a simple pcb to alow mounting modern potentiometers in the doepfer ms404 e.g. bournes pdb181 series and alpha rv16af series pots.
+you can mix and match them with the original potentiometers, but I recommend changing them all, the original radiohm PCB mount pots are not a good design and cause the PCB to flex too much causing bad solder joints and damaged traces.
 
 
-1. dissasemble the ms404 and desolder the old potentiometers, the pot values are written on the PCB Except for the filter resonance potentiometer(that's the only antilog pot). check and reflow/bridge any bad connections on the ms404 PCB , the ms404 suffers a lot from bad solder joints, because the original panel mount pots  cause the PCB to flex a lot.
+1. dissasemble the ms404 and desolder the old potentiometers, the pot values are written on the PCB Except for the filter resonance potentiometer(that's the only antilog pot). check and reflow/bridge any bad connections on the ms404 PCB.
 
-2. add bridge wires in the places where the pot chassis was acting as a jumper for GND.
+2. add bridge wires in the places where the pot chassis was acting as a jumper for GND. this is important, without bridge wires the ms404 will not work.
 
 3. solder some long square pin headers in the PCB, 
 
@@ -12,5 +13,5 @@
 
 5. partially reassemble the ms404, everything except for the top panel,this will insure proper alignment of the pots.
 
-6. add the adapter PCBs and solder them in , make sure you leave a gap at the fron between the adapter PCBs and the front panel.
+6. place the adapter PCBs on the legs of the potentiometers and pin headers and solder them in , cut off any excess from the pin headers. make sure you leave a gap at the fron between the adapter PCBs and the front panel.
 
