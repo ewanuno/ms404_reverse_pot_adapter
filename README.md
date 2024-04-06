@@ -21,3 +21,5 @@ https://www.doepfer.de/ms404_sm.htm
 
 6. place the adapter PCBs on the legs of the potentiometers and pin headers and solder them in , cut off any excess from the pin headers. make sure you leave a gap at the fron between the adapter PCBs and the front panel.
 
+
+be careful when ordering PCB from random gerbers you find on the internet, the risk is all yours, I can only guarantee that they worked for me.
